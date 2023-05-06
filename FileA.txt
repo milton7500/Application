@@ -1,1 +1,2 @@
 This is fileA
+Changes has been made to file fileA
