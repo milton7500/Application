@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Azure/Azure/CLI"
+		},
+		{
+			"path": "../Azure/Azure/PowerShell"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "c:\\Users\\dell\\Desktop\\Azure"
+	}
+}
