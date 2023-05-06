@@ -1,1 +1,2 @@
 This new fresh file C
+Changes made to file C
